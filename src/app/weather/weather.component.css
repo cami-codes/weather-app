@@ -62,6 +62,7 @@
 
 .more-info-label {
   color: var(--white);
+  text-align: center;
 }
 
 .more-info-container {
